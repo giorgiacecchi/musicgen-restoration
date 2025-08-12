@@ -1,0 +1,6 @@
+track,before_hf_band_db,after_hf_band_db,delta_hf_band_db,before_hpss_ratio,after_hpss_ratio,delta_hpss_ratio,log_mel_distance,OK_HFband,OK_HPSS,OK_LogMel,OK_count,criteri_ok,Verdetto
+track_1,35.113,27.84,-7.273,5.322,47.836,42.514,0.689,True,True,False,2,2/3,OK
+track_2,-1.968,4.764,6.733,105.813,105.853,0.04,1.744,False,True,False,1,1/3,NO
+track_3,30.753,39.379,8.626,12.364,12.412,0.048,2.262,False,True,False,1,1/3,NO
+track_4,25.169,29.63,4.461,143.98,149.352,5.372,1.343,False,True,False,1,1/3,NO
+track_5,-7.487,-1.95,5.537,92.6,92.091,-0.509,1.134,False,False,False,0,0/3,NO
